@@ -3,7 +3,7 @@ Arduino source code for a simple single-key USB keyboard emulator
 
 I put this together as a simple way of binding a hardware pushbutton which mimics a single keypress (selectable in code) when the button is pressed. My goal was to have a simple way of activating the "push to talk" feature on Discord while riding my indoor bike trainer and playing the game Zwift https://zwift.com/. 
 
-I also designed a 3D mount to attach the Arduino and a pushbutton to my handlebars with a cable-tie.
+I also designed a 3D mount to attach the Arduino and a pushbutton to my handlebars with a cable-tie which can be found here: https://www.thingiverse.com/thing:3267370
 
 Hardware manifest:
 ------------------
